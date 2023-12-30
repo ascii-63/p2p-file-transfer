@@ -7,6 +7,11 @@ Peer-to-peer file share networks
 python3 --version
 ```
 + pip3
+```
+sudo apt update
+sudo apt install python3-pip -y
+pip3 --version
+```
 # 2. Install:
 + Git clone this repository:
 ```
