@@ -2,7 +2,7 @@
 Peer-to-peer file share networks
 
 # 1. Requirement:
-+ python3 version >= 3.8.10
++ python3 version >= 3.8
 ```
 python3 --version
 ```
