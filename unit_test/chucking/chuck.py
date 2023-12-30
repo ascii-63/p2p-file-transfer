@@ -20,5 +20,6 @@ def chucking(_size, _file_path):
         print(
             f"spilt command failed with return code: {e.returncode} and output : {e.output}")
 
+
 if __name__ == "__main__":
     chucking(50, sys.argv[1])
